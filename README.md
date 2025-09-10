@@ -1,2 +1,2 @@
-# Pr-bna-strona
+# Probna-strona
 Tutaj jakiś opis fajny wpadnie
